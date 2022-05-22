@@ -6,6 +6,7 @@ I’m at the beginning of my path to become a good developer and hopefully this 
 
 Please free to contact me via
 
-[<img align="left" alt="Zhanar | Telegram" width="22px" src="https://papik.pro/uploads/posts/2021-11/thumbs/1636144468_3-papik-pro-p-logotip-telegramma-foto-3.jpg" />]
-[tg]https://t.me/zhanar_baktygali
+[<img align="left" alt="Ruslan | Telegram" width="22px" src="https://papik.pro/uploads/posts/2021-11/thumbs/1636144468_3-papik-pro-p-logotip-telegramma-foto-3.jpg" />][tg]
+[tg]: https://t.me/ruslanturchaninof
+
 
