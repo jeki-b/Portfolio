@@ -5,6 +5,6 @@ Recently I've started upgrading my knowledge in learning Sass and React.js. To s
 I’m at the beginning of my path to become a good developer and hopefully this page will show you my passion to code.
 
 Please free to contact me via
-[<img align="left" alt="Zhanar | Telegram" width="22px" src="https://papik.pro/uploads/posts/2021-11/thumbs/1636144468_3-papik-pro-p-logotip-telegramma-foto-3.jpg" />][tg]
+[<img align="left" alt="Zhanar | Telegram" width="22px" src="https://papik.pro/uploads/posts/2021-11/thumbs/1636144468_3-papik-pro-p-logotip-telegramma-foto-3.jpg" />]
 [tg]: https://t.me/zhanar_baktygali
 
